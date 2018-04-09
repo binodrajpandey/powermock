@@ -1,0 +1,4 @@
+com\example\powermock\App.class
+com\in28minutes\powermock\SystemUnderTest.class
+com\in28minutes\powermock\Dependency.class
+com\in28minutes\powermock\UtilityClass.class
